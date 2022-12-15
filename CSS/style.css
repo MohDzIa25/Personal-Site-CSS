@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+ text-decoration: none;
+ margin:50px 50px 50px 0;
+ color: rgb(90, 145, 145);
+ font-family: 'Kalam', cursive; ;
+}
+a:hover
+{
+    color:black
+}
+.acads
+{
+    width: 25%;
+    float:right;
+    margin:0 0 0 20px ;
+    
+
+}
+.bird1
+{
+    position: absolute;
+    height:5rem;
+    width:5 rem;
+    top: 4rem;
+    right: 10rem;
+}
+.bird2
+{
+    position: absolute;
+    height: 6rem;
+    width: 6rem;
+    top: 22rem;
+    left: 20rem;
+}
+
+.bottom-container
+{
+    background-color:rgb(163, 244, 244);  
+    margin: 0;
+    padding: 20px ;
+}
+
+body
+{
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color:aliceblue;
+    line-height: 2;;
+
+}
+
+
+.buttonClass {
+    font-size:15px;
+    font-family: 'Kalam', cursive;
+    width:140px;
+    height:50px;
+    padding: 8px;
+    border-width:1px;
+    color:black;
+    border-color:#057fd0;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow: 0px 1px 0px 0px #f0f7fa;
+    text-shadow: 0px -1px 0px #5b6178;
+    background:linear-gradient(rgb(54, 114, 95),rgb(163, 244, 244));
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient( rgb(163, 244, 244),rgb(54, 114, 95));
+  }
+                
+                
+
+.cloud1
+{
+    height:8rem;
+    width:12rem;
+    position: absolute;
+    left:10rem;
+    top: 0%;
+    
+}
+
+.cloud2
+{
+    height:8rem;
+    width:12rem;
+    position:absolute;
+    right:15.25rem;
+    top:10rem;
+}
+.coding
+{
+    width: 25%;
+    float:left;
+    margin:0 30px 0 0;  
+}
+.contact-me
+{
+    width: 50%;
+    margin: 2% auto 10% auto;
+    text-align: left;
+}
+
+.First-div
+{
+    background-color:rgb(163, 244, 244);
+    
+}
+.foot-para
+{
+    color: black;
+    font-size: 0.75rem;
+    text-align: center;
+    margin-bottom: 0;
+    
+}
+hr
+{
+    width: 5%;
+    border:0;
+    border-top: 10px solid;
+    border-color: rgb(192, 200, 207);
+    border-style:dotted;
+    margin:4% auto 4% auto;
+    
+    
+}
+h1
+{
+    font-family: 'Caveat', cursive;
+    font-size: 6.5rem;
+    color: rgb(50, 181, 168);
+    padding-top: 2rem;
+
+}
+h2
+{
+    color: rgb(54, 114, 95);
+    font-size: 2.5rem;
+}
+#iiit
+{font-size: 3rem;
+    margin: 0;
+    font-weight: normal;
+ 
+}
+img{
+    margin: 0;
+    padding: 0;
+}
+.mountain
+{
+    height: 30rem;
+    width: 40rem;
+ margin: -0.8rem;
+}
+
+.profile-pic
+{
+border: 3px solid;
+border-radius: 100%;
+margin: 0;
+padding: 0;
+
+
+}
+.profile
+{
+    width:50%;
+    margin:3rem auto 0 auto;
+    
+}
+p{
+  line-height: 2;
+  text-align: left;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-heading
+{
+    text-align: center;
+
+}
+
+
+
+
+
+
